@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="InflateParams">
+        <ignore path="src/edu/uta/mysyllabi/CreateCourse.java" />
+        <ignore path="src/edu/uta/mysyllabi/frontend/CreateCourse.java" />
+        <ignore path="src/edu/uta/mysyllabi/frontend/CreateCourseController.java" />
+        <ignore path="src/edu/uta/mysyllabi/frontend/ModifyCourseController.java" />
+        <ignore path="src/edu/uta/mysyllabi/frontend/SelectDaysDialogFragment.java" />
+    </issue>
+    <issue id="NewApi">
+        <ignore path="src/edu/uta/mysyllabi/CreateCourse.java" />
+        <ignore path="src/edu/uta/mysyllabi/DatabaseHelper.java" />
+        <ignore path="src/edu/uta/mysyllabi/TimePickerFragment.java" />
+    </issue>
+</lint>
